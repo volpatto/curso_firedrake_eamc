@@ -2,6 +2,10 @@
 
 Bem-vindo(a) ao repositório do curso de Introdução ao Firedrake. Aqui você irá encontrar todo o material utilizado nas aulas e como reproduzir o mesmo ambiente. Dessa forma, você será capaz de replicar todos os resultados apresentados.
 
+## Ementa
+
+Para uma visão mais detalhada do curso, por favor verificar a [ementa](https://github.com/volpatto/curso_firedrake_eamc/blob/main/EMENTA.md).
+
 ## Sobre mim
 
 * Nome: Diego Volpatto;
