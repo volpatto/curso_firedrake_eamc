@@ -1,6 +1,6 @@
 # Curso de Introdução ao Firedrake
 
-Bem-vindo ao repositório do curso de Introdução ao Firedrake. Aqui você irá encontrar todo o material utilizado nas aulas e como reproduzir o mesmo ambiente. Dessa forma, você será capaz de replicar todos os resultados apresentados.
+Bem-vindo(a) ao repositório do curso de Introdução ao Firedrake. Aqui você irá encontrar todo o material utilizado nas aulas e como reproduzir o mesmo ambiente. Dessa forma, você será capaz de replicar todos os resultados apresentados.
 
 ## Sobre mim
 
