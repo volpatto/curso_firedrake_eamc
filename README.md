@@ -6,6 +6,32 @@ Bem-vindo(a) ao repositório do curso de Introdução ao Firedrake. Aqui você i
 
 Para uma visão mais detalhada do curso, por favor verificar a [ementa](https://github.com/volpatto/curso_firedrake_eamc/blob/main/EMENTA.md).
 
+## Aulas
+
+As aulas estão elaboradas em [Jupyter Notebooks](https://jupyter.org/). Dessa forma, todas as aulas são interativas e é recomendável que o participante reproduza as mesmas sempre que houver demonstrações com códigos. O material está todo disponibilizado no diretório `notebooks`.
+
+## Pré-requisitos para utilizar esse repositório
+
+Para utilizar o conteúdo presente nesse repositório, é necessário que você tenha instalado o Firedrake com sucesso em sua máquina. Para isso, por favor [siga as instruções disponibilizadas aqui](https://www.firedrakeproject.org/download.html).
+
+Após a correta instalação do Firedrake, é necessário a instalação de dependências adicionais desse curso. Para isso, faça os seguintes passos:
+
+1. Ative o ambiente virtual do Firedrake:
+
+```shell
+source {path_to_firedrake}/firedrake/bin/activate
+```
+
+O `path_to_firedrake` é o caminho na sua máquina para o diretório do `firedrake`. Por exemplo, se você instalou na sua pasta de usuário no Ubuntu, ele simplesmente é `path_to_firedrake=~`, de forma que o comando para ativar o ambiente ficaria `source ~/firedrake/bin/activate`.
+
+2. Instale as dependências adicionais listadas em `requirements.txt`:
+
+```terminal
+pip install -r requirements.txt
+```
+
+Pronto, seu ambiente já possui tudo que é necessário para a execução do material em sua máquina.
+
 ## Sobre mim
 
 * Nome: Diego Volpatto;
