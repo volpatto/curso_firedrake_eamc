@@ -32,6 +32,28 @@ pip install -r requirements.txt
 
 Pronto, seu ambiente já possui tudo que é necessário para a execução do material em sua máquina.
 
+## Executando o material
+
+Com os requisitos adicionais e esse reprositório, ative o ambiente do Firedrake:
+
+```shell
+source {path_to_firedrake}/firedrake/bin/activate
+```
+
+Entre na pasta do repositório do curso:
+
+```shell
+cd {path_to_curso}/curso_firedrake_eamc
+```
+
+Iniciei o `jupyter notebook`:
+
+```shell
+jupyter notebook
+```
+
+Com isso, deve ser aberta uma aba no seu navegador referente ao `jupyter`. Nesse ambiente, navegue até a pasta `notebooks` e escolha a aula de seu interesse.
+
 ## Sobre mim
 
 * Nome: Diego Volpatto;
