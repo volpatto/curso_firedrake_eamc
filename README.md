@@ -10,6 +10,8 @@ Para uma visão mais detalhada do curso, por favor verificar a [ementa](https://
 
 As aulas estão elaboradas em [Jupyter Notebooks](https://jupyter.org/). Dessa forma, todas as aulas são interativas e é recomendável que o participante reproduza as mesmas sempre que houver demonstrações com códigos. O material está todo disponibilizado no diretório `notebooks`.
 
+Os vídeos das aulas estão [nessa playlist do EAMC no YouTube](https://www.youtube.com/watch?v=3IenjncI1G8&list=PLt6jbZlqPK1z2f0aOieIgNZzNY638pAvR).
+
 ## Pré-requisitos para utilizar esse repositório
 
 Para utilizar o conteúdo presente nesse repositório, é necessário que você tenha instalado o Firedrake com sucesso em sua máquina. Para isso, por favor [siga as instruções disponibilizadas aqui](https://www.firedrakeproject.org/download.html).
@@ -61,6 +63,6 @@ Com isso, deve ser aberta uma aba no seu navegador referente ao `jupyter`. Nesse
 
 Sou desenvolvedor numérico na [ESSS](https://github.com/ESSS) desde 2018, trabalhando com desenvolvimento e aplicações numéricas na indústria de Óleo e Gás.
 
-No momento que apresento este curso, sou aluno de doutorado no [LNCC](http://www.lncc.br/) em estado final.
+No momento que apresento este curso, sou aluno de doutorado no [LNCC](http://www.lncc.br/) em estado final. Edit.: Doutorado concluído em 2023.
 
 Qualquer dúvida sobre o curso, por favor entre em contato comigo.
